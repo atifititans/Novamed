@@ -31299,18 +31299,10 @@ button.hamburger span {
   }
 }
 .swiper-hero {
-  height: 600px !important;
+  height: 750px !important;
 }
 .swiper-hero .swiper-slide {
-  height: 600px !important;
-  background-size: cover;
-  background-position: center center;
-}
-.swiper-hero-1 {
-  height: 500px !important;
-}
-.swiper-hero-1 .swiper-slide-1 {
-  height: 500px !important;
+  height: 750px !important;
   background-size: cover;
   background-position: center center;
 }
